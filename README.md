@@ -6,6 +6,6 @@ This is persistent windows 10 keylogger, which is sending results over email eve
 
 *** It is recommended to create Gmail account only for this purpose. Do not forget to enable access to less secure apps ***
 
-Created by: pr0xy_8l4d3
-Team: prohackerland.com
+Created by: pr0xy_8l4d3, 
+Team: prohackerland.com. 
 v1.0
