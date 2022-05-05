@@ -29,9 +29,8 @@ echo -e "
 			'------'  '-----'--------------------------'------'  '------'
 
 	created by: pr0xy_8l4d3
-	Team: prohackerland.com
-	Short description: persistent windows 10 keylogger
-	v1.0
+	Short description: persistent windows 10 and 11 keylogger
+	v1.1
 "
 echo -e "${NC}"
 
