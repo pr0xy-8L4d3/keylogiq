@@ -1,6 +1,6 @@
 # keylogiq
 
-This is persistent windows 10 keylogger, which is sending results over email every each X minutes.
+This is persistent windows 10 and 11 keylogger, which is sending results over email every each X minutes.
 
 ### *** Disclaimer. This tool was made only for educational purposes. Hacking people or computer systems without written permission is strictly prohibited. You are using this tool on your own risk ***
 
@@ -15,9 +15,3 @@ How to use it:
 *   ./keylogiq.sh
 
 During the execution of keylogiq the program will lead you to input all necessary info.
-
-Created by: pr0xy_8l4d3
-
-Team: prohackerland.com
-
-for more information about this tool, you can find on the following link: https://prohackerland.com/persistent-windows-10-keylogger-keylogiq/
