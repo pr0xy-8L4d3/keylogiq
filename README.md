@@ -15,3 +15,5 @@ How to use it:
 *   ./keylogiq.sh
 
 During the execution of keylogiq the program will lead you to input all necessary info.
+
+<b>Sometimes reboot of machine is needed to start sending records toemail.</b>
