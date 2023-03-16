@@ -1,6 +1,6 @@
 cd $env:USERPROFILE"\AppData\Local\Temp"
-$SMTPServer = "smtp.gmail.com"
-$SMTPPort = "587"
+$
+$
 $
 $
 

@@ -6,7 +6,6 @@ This is persistent windows 10 and 11 keylogger, which is sending results over em
 
 ### *** Disclaimer. This tool was made only for educational purposes. Hacking people or computer systems without written permission is strictly prohibited. You are using this tool on your own risk ***
 
-### *** It is recommended to create Gmail account only for this purpose. Do not forget to enable access to less secure apps ***
 
 How to use it:
 
@@ -18,4 +17,6 @@ How to use it:
 
 During the execution of keylogiq the program will lead you to input all necessary info.
 
-<b>Sometimes reboot of machine is needed to start sending records to email.</b>
+v1.2 updates:
+*	since gmail doesn't allow sending emails from less secure apps, code was updated to set any SMTP.
+*	fixed sending results to email also before PC reboot 
